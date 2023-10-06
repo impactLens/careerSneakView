@@ -50,7 +50,7 @@ leading media house, Dhaka, Bangladesh
                                                                        
 28  Course & Proficiency Score ( Undergraduate & Post Graduate and MBA ) 
 
-   ![Pixels](download.png)
+   ![Subject Proficiency](download.png)
 
 65  Technical & technology toolbox                 
 
@@ -181,16 +181,17 @@ on environment as project management
 153  Interests                                          
 154    Tennis, sailing, kayaking, hiking, rugby, chess, go, algorithm, large scale mainframe, poker, blackjack, maze design, crossword                                                                                          
 
-155  Personal information                               
+<details>
+  <summary>PERSONAL INFORMATION</summary>                        
 156    Full name: RASHADUL ISLAM
 157    Mother name: MAHFUJA KHATUN                      
 158    Father name: MD. SERAJUL ISLAM
 159    Birth date: JANUARY 01, 1984
 160    Place of birth: RANGPUR, BANGLADESH              
-161    Nationality: BANGLADESHI      
-162    Language proficiency order: 
+</details>
 
-Language 
+<details>
+  <summary>LANGUAGE PROFICIENCY ORDER</summary>
 Estimate band score 
 Out of score 
 ENGLISH 
@@ -205,26 +206,15 @@ BANGLA
 SPANISH 
 5.5
 10
+</details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-156 Image
+<details>
+  <summary>IMAGE</summary>
+![Image of Rashadul Islam](img_1_1687960546665.jpg)
+</details>
 
 <details>
   <summary>ACADEMIC BRIEF</summary>
-
 Degree 
 Institution 
 Year Attended 
