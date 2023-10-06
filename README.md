@@ -222,8 +222,8 @@ SPANISH
 
 156 Image
 
-
-157 Academic brief 
+<details>
+  <summary>ACADEMIC BRIEF</summary>
 
 Degree 
 Institution 
@@ -267,12 +267,12 @@ RANGPUR ZILLA SCHOOL
 1991 - 1998
 897/1000
 BANGLADESH 
-
+</details>
 
 
 
 <details>
   <summary>REFERENCE</summary>
 All national and international references will be exposed upon request 
-</details>details>
+</details>
 
