@@ -210,7 +210,9 @@ SPANISH
 
 <details>
   <summary>IMAGE</summary>
+  
 ![Image of Rashadul Islam](img_1_1687960546665.jpg)
+
 </details>
 
 <details>
