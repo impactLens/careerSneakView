@@ -49,6 +49,7 @@ shardar mosques, Bangshal Thana, Dhaka 1100, Bangladesh
 leading media house, Dhaka, Bangladesh       
                                                                        
 28  Course & Proficiency Score ( Undergraduate & Post Graduate and MBA ) 
+
 [[download.png]]
 
 65  Technical & technology toolbox                 
