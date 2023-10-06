@@ -1,11 +1,14 @@
 # careerSneakView
 
-1  RASHADUL ISLAM                                       
+<details>
+  <summary>Rashadul Islam</summary>                                        
 2    BSc ( double undergraduate ), System Software, Software Engineering, Canada-Bangladesh                        
 3                                                       
 4    DevOP Full Stack | Consultant IT Infrastructure & ICT | Entrepreneur |  Business development mentor | Big Data Analyst | Artificial Intelligence & Nanotechnology [Research Objectives] | Algorithm Trade smith | Product Ecosystem Designer | Infrastructure Designer | Open Source Ambassador | Keynote Speaker                        
-                                                                                         
-5  Contact information     
+
+</details>                                                                            
+<details>
+  <summary>CONTACT INFORMATION</summary>            
                            
 6    Cellular: +8801714118395                           
 7    Email : rashadul.cse@gmail.com      
@@ -18,9 +21,10 @@
 12      House 62, Floor 5, Siddique Bazar, Near Moti
 shardar mosques, Bangshal Thana, Dhaka 1100, Bangladesh     
 13      Cellular : +8801789790582             
-                                                                  
-14  Managed Experience        
-                      
+                                                    </details>
+
+<details>
+  <summary>MANAGED EXPERIENCE</summary>                        
 15    1) Consultant IT/ICT, very leading chartered accounting firm, Bangladesh       
                            
 16    2) Chief global relation executive, Quest Consultancy and Software development firm            
@@ -47,12 +51,18 @@ shardar mosques, Bangshal Thana, Dhaka 1100, Bangladesh
        
 27    13) Technology, lifestyle & glamour Writer, a
 leading media house, Dhaka, Bangladesh       
-                                                                       
-28  Course & Proficiency Score ( Undergraduate & Post Graduate and MBA ) 
 
+ </details>
+
+<details>
+  <summary>COURSE UNDERSTANDING & TAUGHT ( UNDERGRADUATE, POSTGRADUATE & MBA</summary>    
+  
    ![Subject Proficiency](download.png)
 
-65  Technical & technology toolbox                 
+</details>
+
+<details>
+  <summary>TECHNOLOGY ADAPTATION & TOOLBOX</summary>                          
 
 66  J2SE                                                
 67  J2EE                                                
@@ -120,11 +130,12 @@ leading media house, Dhaka, Bangladesh
 
 
 
+</details>
 
 
 
-
-127  Key projects
+<details>
+  <summary>FEATURED KEY PROJECT</summary>            
 
 128    Infrastructure Designer, Enterprise resource p
 lanning ( ERP ), Primeasia University, Dhaka, Bangladesh
@@ -142,8 +153,11 @@ on, Oracle, Apache Tomcat, HTML5, LISP | Estimate effort 42240 hours | CMMI leve
 133    Organization developer & Adjunct Faculty, A leading private university, Bangladesh | 32000 hours | CMMI level 3 | PMMI level 2                                
 
 134    Associate Consultant IT and ICT, A leading chartered accounting firm, Dhaka, Bangladesh | 200000 hours| CMMI level 5 | PMMI level 5          
-                 
-135  Achievements
+
+</details>
+
+<details>
+  <summary>ACHIEVEMENTS</summary>            
 
 136    Second position in Internal ACM programming contest, Independent University Bangladesh, 2002
 
@@ -151,19 +165,20 @@ on, Oracle, Apache Tomcat, HTML5, LISP | Estimate effort 42240 hours | CMMI leve
 
 138    Registrar's Office list & gold medalist, for CGPA above 3.75 in consecutive academic semester, a renouned university in Bangladesh             
 
-            139    Outstanding contribution in student life and career development, a renouned university in Canada
+139    Outstanding contribution in student life and career development, a renouned university in Canada
 
 140    Top 100 student in both SSC and HSC, Rajshahi Board, 1998 - 2000                     
                                                                             
 141    Divisional football player, Rangpur, Rajshahi,
  Bangladesh                    
                                                                                  
-            142    High performance, impactful, influencial key employee, A renouned gaming organization in Canada
+142    High performance, impactful, influencial key employee, A renouned gaming organization in Canada
                                               
 
+</details>
 
-
-             
+<details>
+  <summary>JOURNAL PAPER & ARTICLE</summary>                    
 143  Journal paper  & Article          
                           
 144    Mantissa problem in predictive computing        
@@ -177,9 +192,11 @@ on environment as project management
                                               
 151    Preemptive algorithm : Systemic schedule in lifestyle development
 152    SCRIPTED specs: an ecosystem of a product life cycle                 
-                                                                                            
-153  Interests                                          
-154    Tennis, sailing, kayaking, hiking, rugby, chess, go, algorithm, large scale mainframe, poker, blackjack, maze design, crossword                                                                                          
+
+</details>                                                                                       
+<details>
+  <summary>INTERESTS</summary>                                           
+154    Tennis, sailing, kayaking, hiking, rugby, chess, go, algorithm, large scale mainframe, poker, blackjack, maze design, crossword                                                                       </details>            
 
 <details>
   <summary>PERSONAL INFORMATION</summary>                        
