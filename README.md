@@ -50,7 +50,7 @@ leading media house, Dhaka, Bangladesh
                                                                        
 28  Course & Proficiency Score ( Undergraduate & Post Graduate and MBA ) 
 
-![alt text](http://url/to/img.png)
+![alt text](download.png)
 
 65  Technical & technology toolbox                 
 
